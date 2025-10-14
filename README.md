@@ -26,7 +26,7 @@ This converter uses the following parameters:
 | operator  		| sysoper               | If log is missing operator use this one.						 |
 | sequenceName		| SeqName               | If log is missing sequence name, use this one.                 |
 | sequenceVersion	| 0.0.0                 | If log is missing sequence version, use this one.              |
-| partNumber		| 10                    | If log is missing operation code (process code), use this one. |
+| partNumber		| PN1                   | If log is missing operation code (process code), use this one. |
 
 ## Testing
 
