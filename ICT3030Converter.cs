@@ -14,7 +14,7 @@ namespace Spea
     {
         public ICT3030Converter() : base()
         {
-
+            converterArguments.Add("partNumber", "PN1");
         }
         public ICT3030Converter(IDictionary<string, string> args) : base(args)
         {

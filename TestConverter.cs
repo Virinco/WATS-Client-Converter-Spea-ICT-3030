@@ -26,7 +26,6 @@ namespace Spea
             InitializeAPI(true);
             string fn = @"Data\testdata_SN9871234012";
             Dictionary<string, string> arguments = new ICT3030Converter().ConverterParameters;
-            arguments.Add("partNumber", "PN1");
             ICT3030Converter converter = new ICT3030Converter(arguments);
             using (FileStream file = new FileStream(fn, FileMode.Open))
             {
@@ -44,7 +43,6 @@ namespace Spea
             var folderPath = @"Data";
             var files = Directory.GetFiles(folderPath);
             Dictionary<string, string> arguments = new ICT3030Converter().ConverterParameters;
-            arguments.Add("partNumber", "PN1");
 
             foreach (string fn in files)
             {
