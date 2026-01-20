@@ -4,13 +4,13 @@ A WATS Client converter plugin for importing test data from Spea ICT 3030 test s
 
 ## Getting Started
 
-* [About WATS](https://wats.com/manufacturing-intelligence/)
+* [About WATS](https://www.wats.com/about-us)
 * [About submitting data to WATS](https://virinco.zendesk.com/hc/en-us/articles/207424613)
 * [About creating custom converters](https://virinco.zendesk.com/hc/en-us/articles/207424593)
 
 ## Download
 
-See the Custom Converter section in the [WATS Client Installation Guide](https://wats.com/download) for your version of the WATS Client for how to install a converter.
+See the Custom Converter section in the [WATS Client Installation Guide](https://support.wats.com/hc/en-us/sections/360003392680-WATS-Client-releases) for your version of the WATS Client for how to install a converter.
 
 ### Test-sofware configuration
 
@@ -80,7 +80,7 @@ Contact Virinco support, and include the wats.log file: [Where to find the wats 
 * Issues with the converter or suggestions for improvements can be submitted as an issue here on GitHub.
 * Ask questions about WATS in the [WATS Community Help](https://virinco.zendesk.com/hc/en-us/community/topics/200229613)
 * Suggestions for the WATS Client itself or WATS in general can be submitted to the [WATS Idea Exchange](https://virinco.zendesk.com/hc/en-us/community/topics/200229623)
-* Sensitive installation issues or other sensitive questions can be sent to [support@virinco.com](mailto://support@virinco.com)
+* Sensitive installation issues or other sensitive questions can be sent to [support@wats.com](mailto://support@wats.com)
 
 ## License
 
